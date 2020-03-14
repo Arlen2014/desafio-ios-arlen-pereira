@@ -1,0 +1,6 @@
+framework module Pods_desafio_ios_arlen_pereira_desafio_ios_arlen_pereiraUITests {
+  umbrella header "Pods-desafio-ios-arlen-pereira-desafio-ios-arlen-pereiraUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
